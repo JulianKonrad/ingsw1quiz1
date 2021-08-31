@@ -1,1 +1,2 @@
-# ingsw1quiz1
+# Julian David Miranda Leguizamón
+# 506191014
