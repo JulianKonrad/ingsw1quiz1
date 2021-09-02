@@ -671,6 +671,11 @@ progress {
     list-style: none;
 }
 
+.as {
+    text-align: center;
+    text-decoration: none;
+}
+
 .asd {
     margin-top: 1rem;
     margin-bottom: 1rem;
